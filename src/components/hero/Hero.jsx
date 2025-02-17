@@ -28,7 +28,7 @@ const Hero = ({state}) => {
         <div className="container">
             <div className="hero-text">
                 <p><span>Utsav </span>
-                    is a Blockchain Developer From India.</p>
+                    is a Software Developer From India.</p>
                 <h1>I develop decentralised apps in web3 space.</h1>
                 <h3>{description}</h3>
                 {/*  =========popup bootstrap==========  */}
